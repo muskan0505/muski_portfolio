@@ -2,7 +2,7 @@
 
 A modern, responsive developer portfolio built with **React + Vite**, showcasing my skills, projects, and resume.
 
-🔗 **Live Demo:** (Add Vercel link here)  
+🔗 **Live Demo:** https://muskan-portfolio-2025.vercel.app/
 📄 **Resume:** Available in the Resume section of the website
 
 ---
